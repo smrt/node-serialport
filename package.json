@@ -74,9 +74,6 @@
     "proxyquire": "^1.7.10",
     "sinon": "^2.0.0"
   },
-  "bundledDependencies": [
-    "node-pre-gyp"
-  ],
   "engines": {
     "node": ">= 4.0.0"
   },
