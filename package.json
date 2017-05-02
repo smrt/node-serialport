@@ -1,6 +1,6 @@
 {
   "name": "serialport",
-  "version": "4.0.7",
+  "version": "4.0.7-nopregyp",
   "description": "Node.js package to access serial ports. Welcome your robotic javascript overlords. Better yet, program them!",
   "author": {
     "name": "Chris Williams",
@@ -77,9 +77,6 @@
     "sinon": "^1.17.3",
     "sinon-chai": "^2.8.0"
   },
-  "bundledDependencies": [
-    "node-pre-gyp"
-  ],
   "engines": {
     "node": ">= 0.10.0"
   },
